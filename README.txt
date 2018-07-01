@@ -1,6 +1,9 @@
 Document Detector
 文档探测器
 
+下载地址：
+    https://github.com/MikeWang000000/DocumentDetector/files/2152686/DocumentDetector.zip
+
 通途：
     自动拷课件，课件一被打开立即拷走保存*。按日期归档，方便班级电脑管理员整理文件。
     --------------------
